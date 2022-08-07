@@ -1,16 +1,23 @@
 ### Hi there 👋
+I'm Can. I'm a Data Scientist from Turkey. I mostly use Python on my works :)
 
-<!--
-**mcandemir/mcandemir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Stuff I also like to work on
+<ul>
+  <li>Generative Adversarial Networks</li>
+  <li>Object Detection</li>
+  <li>Object Segmentation</li>
+  <li>Data Forecasting</li>
+  <li>Natural Language Processing</li>
+  <li>Self Driving Cars</li>
+  <li>Computer Vision</li>
+</ul>
 
-Here are some ideas to get you started:
+### Currently Learning
+<ul>
+  <li>Docker</li>
+  <li>Kubernetes</li>
+  <li>CI/CD (in general)</li>
+</ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Stats 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mcandemir&show_icons=true&theme=radical)
