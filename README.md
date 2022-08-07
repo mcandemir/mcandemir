@@ -14,7 +14,6 @@ I'm Can. I'm a Data Scientist from Turkey. I mostly use Python on my works :)
 
 ### Currently Learning
 <ul>
-  <li>Docker</li>
   <li>Kubernetes</li> 
   <li>CI/CD (in general)</li>
 </ul>
