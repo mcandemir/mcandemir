@@ -19,7 +19,5 @@ I'm Can. I'm a Machine Learning Engineer from Turkey. I mostly use Python on my 
 </ul>
 
 ### Stats 
-<img height="137px" src="https://github-readme-stats-eight-omega-34.vercel.app/api?username=mcandemir&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=radical" /><img height="137px" src="https://github-readme-stats-eight-omega-34.vercel.app/api/top-langs/?username=mcandemir&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=radical" />
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&show_icons=true&theme=radical)
+<img height="137px" src="https://github-readme-stats-3vk6ejzsp-mcandemir.vercel.app/api?username=mcandemir&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=radical" /><img height="137px" src="https://github-readme-stats-3vk6ejzsp-mcandemir.vercel.app/api/top-langs/?username=mcandemir&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=radical" />
 
