@@ -14,7 +14,7 @@ I'm Can. I'm a Machine Learning Engineer candidate from Turkey. I mostly use Pyt
 
 ### Currently Learning
 <ul>
-  <li>Kubernetes</li> 
+  <li>MLOps</li> 
   <li>CI/CD (in general)</li>
 </ul>
 
