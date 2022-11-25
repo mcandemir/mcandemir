@@ -3,6 +3,7 @@ I'm Can. I'm a Machine Learning Engineer candidate from Turkey. I mostly use Pyt
 
 ### Stuff I also like to work on
 <ul>
+  <li>Data Science</li>
   <li>Generative Adversarial Networks</li>
   <li>Object Detection</li>
   <li>Object Segmentation</li>
