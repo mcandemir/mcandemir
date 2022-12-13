@@ -17,6 +17,7 @@ I'm Can. I'm a Machine Learning Engineer candidate from Turkey. I mostly use Pyt
 <ul>
   <li>MLOps</li> 
   <li>CI/CD (in general)</li>
+  <li>Anomaly Detection via Deep Learning</li>
 </ul>
 
 ### Stats 
