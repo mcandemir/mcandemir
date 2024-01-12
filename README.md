@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Can. I'm a Machine Learning Engineer candidate from Turkey. I mostly use Python on my works.
+I'm Can. I'm a Python Developer from Turkey.
 
 ### Stuff I also like to work on
 <ul>
