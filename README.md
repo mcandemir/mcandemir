@@ -21,5 +21,5 @@ I'm Can. I'm a Machine Learning Engineer candidate from Turkey. I mostly use Pyt
 </ul>
 
 ### Stats 
-<p>to be fixed</p>
+![Can Demir's GitHub stats](https://github-readme-stats.vercel.app/api?username=mcandemir&show_icons=true&theme=radical\&rank_icon=percentile)
 
