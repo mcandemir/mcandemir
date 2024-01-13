@@ -15,9 +15,8 @@ I'm Can. I'm a Python Developer from Turkey.
 
 ### Currently Learning
 <ul>
-  <li>MLOps</li> 
+  <li>Backend (Python)</li>  
   <li>CI/CD (in general)</li>
-  <li>Anomaly Detection via Deep Learning</li>
 </ul>
 
 ### Stats 
