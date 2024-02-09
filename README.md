@@ -11,6 +11,7 @@ I'm Can. I'm a Python Developer from Turkey.
   <li>Natural Language Processing</li>
   <li>Self Driving Cars</li>
   <li>Computer Vision</li>
+  <li>Web Developing</li>
 </ul>
 
 ### Currently Learning
