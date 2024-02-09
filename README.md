@@ -11,15 +11,9 @@ I'm Can. I'm a Python Developer from Turkey.
   <li>Natural Language Processing</li>
   <li>Self Driving Cars</li>
   <li>Computer Vision</li>
-  <li>Web Developing</li>
+  <li>Web Developing</li>  
+  <li>DevOps</li>
 </ul>
-
-### Currently Learning
-<ul>
-  <li>Backend (Python)</li>  
-  <li>CI/CD (in general)</li>
-</ul>
-
 ### Stats 
 ![Can Demir's GitHub stats](https://github-readme-stats.vercel.app/api?username=mcandemir&show_icons=true&theme=radical\&rank_icon=percentile)
 
