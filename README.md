@@ -1,4 +1,4 @@
-Just a regular Software Engineer from Turkey.
+Just a regular Software Engineer.
 
 ##### Portfolio
 https://www.mehmetcandemir.com/
