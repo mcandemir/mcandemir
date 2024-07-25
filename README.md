@@ -1,4 +1,4 @@
-Just a regular Software Engineer.
+i love waffles
 
 ##### Portfolio
 https://www.mehmetcandemir.com/
