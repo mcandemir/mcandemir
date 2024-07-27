@@ -1,4 +1,6 @@
-i love waffles
+Regular software engineer prioritizing Python Development.
+
+And Waffles.
 
 ##### Portfolio
 https://www.mehmetcandemir.com/
