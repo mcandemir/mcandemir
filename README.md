@@ -1,6 +1,7 @@
 Regular AI / Software Engineer prioritizing Python Development.
 
-Ongoing Projects: Serene (LLM SQL Assistant)
+Ongoing Projects: 
+  - [Serene](https://github.com/mcandemir/serene), Fine-Tuned LLM Powered SQL Assistant
 
 ##### Portfolio
 https://www.mehmetcandemir.com/
