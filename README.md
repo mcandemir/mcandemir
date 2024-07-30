@@ -1,6 +1,6 @@
-Regular software engineer prioritizing Python Development.
+Regular AI / Software Engineer prioritizing Python Development.
 
-And Waffles.
+Ongoing Projects: Serene (LLM SQL Assistant)
 
 ##### Portfolio
 https://www.mehmetcandemir.com/
