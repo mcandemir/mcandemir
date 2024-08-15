@@ -1,8 +1,4 @@
-Regular AI / Software Engineer prioritizing Python Development.
-
-Ongoing Projects: 
-  - [Serene](https://github.com/mcandemir/serene), Fine-Tuned LLM Powered SQL Assistant
-  - _Streamlit Basics for Everyone_, A Large Repository of Streamlit Project Ideas and Tasks (will be opened to public soon)
+Software Engineer
 
 ##### Portfolio
 https://www.mehmetcandemir.com/
